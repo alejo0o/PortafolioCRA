@@ -1,0 +1,15 @@
+@media screen and (max-width: 768px) {
+  .developTMain {
+    display: block;
+  }
+  .verticalLine {
+    border-bottom: thick solid #37beb09d;
+    margin: 1.2%;
+    border-radius: 1em;
+  }
+}
+@media screen and (max-width: 450px) {
+  .developTMain {
+    font-size: 0.8em;
+  }
+}

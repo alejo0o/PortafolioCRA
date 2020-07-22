@@ -1,0 +1,235 @@
+@media screen and (max-width: 1024px) {
+  .slideinBoxContainer {
+    padding-top: 8%;
+  }
+  .slideTitleMain {
+    font-size: 140%;
+  }
+  .box1visible {
+    width: 27em;
+    height: 5em;
+  }
+  .box2visible {
+    font-size: 90%;
+    width: 27em;
+    height: 8em;
+    margin-top: 2em;
+  }
+  .box3visible {
+    font-size: 90%;
+    width: 24em;
+    height: 5em;
+    margin-top: 2em;
+  }
+  .box1invisible {
+    width: 0px;
+    height: 5em;
+  }
+  .box2invisible {
+    font-size: 90%;
+    width: 0px;
+    height: 8em;
+    margin-top: 2em;
+  }
+  .box3invisible {
+    font-size: 90%;
+    width: 0px;
+    height: 5em;
+    margin-top: 2em;
+  }
+}
+///////////////////////////
+@media screen and (max-width: 768px) {
+  .imgFirstContainer {
+    border-radius: 2em;
+  }
+  .first_image {
+    border-radius: 2em;
+  }
+  .slideinBoxContainer {
+    margin-top: 5%;
+    border-radius: 1.5em;
+    background-color: #bfd7ed;
+    padding-top: 4.5%;
+    //border: solid black;
+  }
+  .imgFirstContainer {
+    position: static;
+    width: 100%;
+  }
+  .projectsMain {
+    margin-bottom: 60%;
+  }
+  //Box Size
+  .slideTitleMain {
+    font-size: 125%;
+  }
+  .box1 {
+    background-color: #60a3d9;
+  }
+  .box2 {
+    background-color: #0074b7;
+    font-size: 80%;
+  }
+  .box3 {
+    background-color: #003b73;
+    font-size: 70%;
+  }
+}
+////////////////////
+@media screen and (max-width: 610px) {
+  .imgFirstContainer {
+    border-radius: 1em;
+  }
+  .first_image {
+    border-radius: 1em;
+  }
+  .slideinBoxContainer {
+    border-radius: 1em;
+    padding-top: 3%;
+  }
+  .slideTitleMain {
+    font-size: large;
+  }
+  .box1 {
+    padding: 1em;
+  }
+  .box1visible {
+    width: 19em;
+    height: 3.5em;
+  }
+  .box2visible {
+    font-size: 70%;
+    width: 25.5em;
+    height: 9em;
+    margin-top: 1em;
+  }
+  .box3visible {
+    font-size: 70%;
+    width: 23em;
+    height: 5em;
+    margin-top: 1em;
+  }
+  .box1invisible {
+    width: 0px;
+    height: 3.5em;
+  }
+  .box2invisible {
+    font-size: 70%;
+    width: 0px;
+    height: 9em;
+    margin-top: 1em;
+  }
+  .box3invisible {
+    font-size: 70%;
+    width: 0px;
+    height: 5em;
+    margin-top: 1em;
+  }
+}
+///////////////////////
+@media screen and (max-width: 495px) {
+  .imgFirstContainer {
+    border-radius: 0.5em;
+    border-radius: 3em;
+    -webkit-box-shadow: 10px 10px 2px 1px rgb(0, 0, 0);
+    -moz-box-shadow: 15px 15px 3px 1px rgb(6, 7, 7);
+    box-shadow: 11px 11px 3px 1px rgb(17, 17, 17);
+  }
+  .first_image {
+    border-radius: 0.5em;
+  }
+  .slideinBoxContainer {
+    border-radius: 0.8em;
+    padding-top: 3.5%;
+  }
+  .slideTitleMain {
+    font-size: medium;
+  }
+  .box1 {
+    padding: 0.3em;
+  }
+  .box1visible {
+    width: 15em;
+    height: 2.5em;
+  }
+  .box2visible {
+    font-size: 65%;
+    width: 24em;
+    height: 8em;
+    margin-top: 1em;
+  }
+  .box3visible {
+    font-size: 65%;
+    width: 22em;
+    height: 5em;
+    margin-top: 1em;
+  }
+  .box1invisible {
+    width: 0px;
+    height: 2.5em;
+  }
+  .box2invisible {
+    font-size: 65%;
+    width: 0px;
+    height: 8em;
+    margin-top: 1em;
+  }
+  .box3invisible {
+    font-size: 65%;
+    width: 0px;
+    height: 5em;
+    margin-top: 1em;
+  }
+}
+//////////////////////
+@media screen and (max-width: 420px) {
+  .imgFirstContainer {
+    border-radius: 0.5em;
+  }
+  .first_image {
+    border-radius: 0.5em;
+  }
+  .slideinBoxContainer {
+    border-radius: 1em;
+    padding-top: 3%;
+  }
+  .slideTitleMain {
+    font-size: small;
+  }
+  .box1 {
+    padding: 0.5em;
+  }
+  .box1visible {
+    width: 13em;
+    height: 2em;
+  }
+  .box2visible {
+    font-size: 50%;
+    width: 24em;
+    height: 7.5em;
+    margin-top: 0.8em;
+  }
+  .box3visible {
+    font-size: 50%;
+    width: 22em;
+    height: 4.5em;
+    margin-top: 0.8em;
+  }
+  .box1invisible {
+    width: 0px;
+    height: 2em;
+  }
+  .box2invisible {
+    font-size: 50%;
+    width: 0px;
+    height: 7.5em;
+    margin-top: 0.8em;
+  }
+  .box3invisible {
+    font-size: 50%;
+    width: 0px;
+    height: 4.5em;
+    margin-top: 0.8em;
+  }
+}

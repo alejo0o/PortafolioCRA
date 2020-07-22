@@ -1,0 +1,55 @@
+.mainDescriptionContainer {
+  display: flex;
+  margin: 5% auto;
+  background-color: #1c6cae;
+  border-radius: 0.6em;
+  max-width: 1400px;
+  width: calc(100% - 40px);
+  min-height: 525px;
+}
+//Text Box Description Styles
+.textDescription {
+  width: 100%;
+  color: white;
+  height: 100%;
+  align-self: center;
+  padding: 0% 5%;
+  text-align: justify;
+  font-size: large;
+  font-family: 'Rubik', Arial, sans-serif;
+}
+.titleDescription {
+  font-weight: 900;
+  letter-spacing: -0.06em;
+  display: flex;
+  text-align: start;
+}
+.textDescription p {
+  color: rgb(193, 208, 223);
+}
+.descriptionDecoration {
+  background-color: #93c9ec;
+  width: 4.3em;
+  height: 0.1em;
+  border-radius: 1em;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+.signature {
+  font-family: 'Brush Script MT', cursive;
+}
+//Img container styles
+.imgContainer {
+  width: 70em;
+}
+.imgDescription {
+  background-image: url(https://i.ibb.co/N7sNybs/Foto4.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  border-top-right-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+}
+@import '../ResponsiveStyles/MainDescriptionResposive.scss';

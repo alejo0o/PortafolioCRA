@@ -1,0 +1,15 @@
+.developTMain {
+  background-color: #064a81;
+  margin: 3%;
+  border-radius: 1.5em;
+  display: flex;
+  justify-content: space-between;
+  padding: 3em;
+}
+
+.verticalLine {
+  border-left: thick solid #37beb09d;
+  margin: 1.2%;
+  border-radius: 1em;
+}
+@import '../ResponsiveStyles/DevelopmentTalentsResponsive.scss';

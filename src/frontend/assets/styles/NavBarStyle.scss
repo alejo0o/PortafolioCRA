@@ -1,0 +1,68 @@
+.bg-color {
+  background-color: #60a3d9;
+}
+.img-estilo {
+  border-radius: 3em;
+  height: 100%;
+  width: 18%;
+}
+.NavBar-style {
+  max-height: 20em;
+  min-height: 5.5em;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+.brandName {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.itemsContainer {
+  margin-left: auto;
+  justify-content: space-evenly;
+}
+.navBar-Efect {
+  font-size: 1.2em;
+  display: flex;
+  border-radius: 0.5em;
+  transition: 0.5s;
+  min-width: 10em;
+  width: 15em;
+  justify-content: center;
+}
+.navBar-Efect:hover {
+  background-color: #1c6cae;
+}
+.navBar-Efect-Brand {
+  font-size: 1.2em;
+  display: flex;
+  border-radius: 0.5em;
+  transition: 0.5s;
+  min-width: 15em;
+  width: 16em;
+}
+.navBar-Efect-Brand:hover {
+  background-color: #1c6cae;
+}
+.NavBarMainContainer {
+  //max-width: 130em;
+  margin: auto;
+}
+@media screen and (max-width: 768px) {
+  .itemsContainer {
+    padding-left: 0%;
+  }
+}
+@media screen and (max-width: 420px) {
+  .navBar-Efect-Brand {
+    font-size: 0.8em;
+    width: 17.5em;
+    height: 3em;
+  }
+  .navBar-Efect {
+    font-size: 0.9em;
+    height: 3.5em;
+    width: 16em;
+    border: groove;
+    margin-top: 1.2%;
+  }
+}

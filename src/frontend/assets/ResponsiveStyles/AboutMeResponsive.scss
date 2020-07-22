@@ -1,0 +1,31 @@
+@media screen and (max-width: 768px) {
+  .aboutMeMainContainer {
+    display: block;
+    padding: 4%;
+  }
+  .aboutMeTextMain {
+    margin: 0em;
+  }
+  .aboutMeImgContainer {
+    width: 80%;
+    margin: 2% 10%;
+  }
+  .aboutMeButtonContainer {
+    display: block;
+    padding: 0% 30%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .aboutMeMainContainer {
+    display: block;
+  }
+  .aboutMeTextMain {
+    margin: 0em;
+  }
+  .aboutMeImgContainer {
+    width: 80%;
+    margin: 2% 10%;
+    min-width: auto;
+    height: auto;
+  }
+}

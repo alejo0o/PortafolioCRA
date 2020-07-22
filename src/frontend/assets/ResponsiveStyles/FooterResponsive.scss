@@ -1,0 +1,33 @@
+@media screen and (max-width: 768px) {
+  //First Container
+  .footer_first_container {
+    display: block;
+    text-align: center;
+  }
+  .footer_second {
+    display: block;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 450px) {
+  //First Container
+  .footer_first_container {
+    font-size: 0.6em;
+  }
+  .footer_second_container {
+    font-size: 0.6em;
+  }
+  .btn {
+    width: 3em;
+    height: 3em;
+  }
+  .btn i {
+    font-size: 1em;
+  }
+  .btn img {
+    font-size: 1em;
+  }
+  .footer_third_container {
+    display: block;
+  }
+}
