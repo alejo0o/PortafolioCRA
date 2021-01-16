@@ -1,0 +1,37 @@
+{
+  "name": "portafolio2021-next",
+  "version": "1.0.0",
+  "description": "Personal Portfolio 2021",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejo0o/Portafolio2021.git"
+  },
+  "author": "Alejandro Vivanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejo0o/Portafolio2021/issues"
+  },
+  "homepage": "https://github.com/alejo0o/Portafolio2021#readme",
+  "dependencies": {
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "1.12.0",
+    "bootstrap": "4.5.3",
+    "font-awesome": "4.7.0",
+    "react-bootstrap": "1.4.3",
+    "react-intersection-observer": "8.31.0",
+    "react-spring": "8.0.27",
+    "resize-observer-polyfill": "1.5.1",
+    "styled-components": "5.2.1"
+  }
+}
