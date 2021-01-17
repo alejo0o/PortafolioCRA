@@ -8,6 +8,10 @@ const Layout = ({ children, title }) => {
       <Head>
         <title>{title}</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
+        <meta
+          name='google-site-verification'
+          content='vF-PP1aclWzRQXWqB_8HxViCnl7Rk7MoD3DWmh9yRZE'
+        />
         <link rel='icon' href='https://i.ibb.co/g4hYLtW/image.png' />
         <link
           rel='apple-touch-icon'
