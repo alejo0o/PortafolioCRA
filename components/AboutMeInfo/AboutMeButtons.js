@@ -9,7 +9,7 @@ const AboutMeButtons = () => {
           rel='noreferrer'
           target='_blank'
           download='Alejandro Vivanco CV.pdf'
-          href='https://dl.dropboxusercontent.com/s/grz36trffqe62s4/CV%20Alejandro%20Vivanco.pdf'
+          href='https://dl.dropboxusercontent.com/s/2kfvlfdo43sbpro/CV%20Alejandro%20Vivanco.pdf'
           style={{ textDecoration: 'none' }}>
           <span />
           <span />
