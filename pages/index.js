@@ -2,10 +2,15 @@ import MainDescription from '../components/MainDescription/MainDescription';
 import DevelopmentTalents from '../components/DevelopmentTalents/DevTalents';
 import SkillSet from '../components/SkillSet/SkillSet';
 import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 
 const MainPage = () => {
   return (
     <div>
+      <NextSeo
+        title='Home | Alejandro Vivanco'
+        description='Alejandro Vivanco Portafolio'
+      />
       <Head>
         <title>Home | Alejandro Vivanco</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />

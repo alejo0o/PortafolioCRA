@@ -2,10 +2,15 @@ import { Container } from 'react-bootstrap';
 import CardHover from '../../components/Cards/CardHover';
 import { GridContainer, CustomHR } from '../../components/CommonStyles';
 import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 
 const AcademicProjects = () => {
   return (
     <div>
+      <NextSeo
+        title='Academic Projects | Alejandro Vivanco'
+        description='Alejandro Vivanco Portafolio'
+      />
       <Head>
         <title>Academic Projects | Alejandro Vivanco</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />

@@ -3,10 +3,15 @@ import CardHover from '../../components/Cards/CardHover';
 import { GridContainer, CustomHR } from '../../components/CommonStyles';
 import Experience from '../../components/Experience/Experience';
 import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 
 const Portfolio = () => {
   return (
     <div>
+      <NextSeo
+        title='Portfolio | Alejandro Vivanco'
+        description='Alejandro Vivanco Portafolio'
+      />
       <Head>
         <title>Portfolio | Alejandro Vivanco</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />

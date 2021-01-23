@@ -21,6 +21,7 @@
   "homepage": "https://github.com/alejo0o/Portafolio2021#readme",
   "dependencies": {
     "next": "10.0.5",
+    "next-seo": "4.17.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
