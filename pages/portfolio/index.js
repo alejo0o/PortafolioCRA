@@ -2,11 +2,16 @@ import { Container } from 'react-bootstrap';
 import CardHover from '../../components/Cards/CardHover';
 import { GridContainer, CustomHR } from '../../components/CommonStyles';
 import Experience from '../../components/Experience/Experience';
-import Layout from '../../components/Layout';
+import Head from 'next/head';
 
 const Portfolio = () => {
   return (
-    <Layout title='Portfolio | Alejandro Vivanco'>
+    <div>
+      <Head>
+        <title>Portfolio | Alejandro Vivanco</title>
+        <meta name='viewport' content='initial-scale=1.0, width=device-width' />
+        <link rel='icon' href='https://i.ibb.co/g4hYLtW/image.png' />
+      </Head>
       <Container fluid style={{ padding: '2em 0' }} className='mb-5'>
         <div style={{ textAlign: 'center' }}>
           <h3>PORTFOLIO</h3>
@@ -73,7 +78,7 @@ const Portfolio = () => {
         </GridContainer>
         <Experience />
       </Container>
-    </Layout>
+    </div>
   );
 };
 

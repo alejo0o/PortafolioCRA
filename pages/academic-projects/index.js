@@ -1,11 +1,16 @@
 import { Container } from 'react-bootstrap';
 import CardHover from '../../components/Cards/CardHover';
 import { GridContainer, CustomHR } from '../../components/CommonStyles';
-import Layout from '../../components/Layout';
+import Head from 'next/head';
 
 const AcademicProjects = () => {
   return (
-    <Layout title='Academic Projects | Alejandro Vivanco'>
+    <div>
+      <Head>
+        <title>Academic Projects | Alejandro Vivanco</title>
+        <meta name='viewport' content='initial-scale=1.0, width=device-width' />
+        <link rel='icon' href='https://i.ibb.co/g4hYLtW/image.png' />
+      </Head>
       <Container fluid style={{ padding: '2em 0' }}>
         <div style={{ textAlign: 'center' }}>
           <h3>ACADEMIC-PROJECTS</h3>
@@ -101,7 +106,7 @@ const AcademicProjects = () => {
           />
         </GridContainer>
       </Container>
-    </Layout>
+    </div>
   );
 };
 
