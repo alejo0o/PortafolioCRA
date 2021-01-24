@@ -14,7 +14,7 @@ const MainDescription = () => {
       <MainDescriptionContainer>
         <TextDescription>
           <TitleDescription>
-            Hi, I&apos;m Alejandro Vivancoo
+            Hi, I&apos;m Alejandro Vivanco
             <DescriptionDecoration />
           </TitleDescription>
           <br />
