@@ -9,7 +9,7 @@ const MainPage = () => {
     <div>
       <NextSeo
         title='Home | Alejandro Vivanco'
-        description='Alejandro Vivanco Portafolio'
+        description='Alejandro Manuel Vivanco Mosquera'
       />
       <Head>
         <title>Home | Alejandro Vivanco</title>

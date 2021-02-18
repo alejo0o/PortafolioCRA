@@ -7,7 +7,7 @@ const AboutMe = () => {
     <div>
       <NextSeo
         title='About Me | Alejandro Vivanco'
-        description='Alejandro Vivanco Portafolio'
+        description='Alejandro Manuel Vivanco Mosquera'
       />
       <Head>
         <title>About Me | Alejandro Vivanco</title>

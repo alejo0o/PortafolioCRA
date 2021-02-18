@@ -28,7 +28,7 @@ const AboutMeInfo = () => {
             width='100%'
             height='100%'
             src='https://i.ibb.co/FswB0sw/imagen-about-me.jpg'
-            alt=''
+            alt='Alejandro Manuel Vivanco Mosquera'
           />
         </ImageBorder>
       </MainContainer>

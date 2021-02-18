@@ -9,7 +9,7 @@ const AcademicProjects = () => {
     <div>
       <NextSeo
         title='Academic Projects | Alejandro Vivanco'
-        description='Alejandro Vivanco Portafolio'
+        description='Alejandro Manuel Vivanco Mosquera'
       />
       <Head>
         <title>Academic Projects | Alejandro Vivanco</title>
