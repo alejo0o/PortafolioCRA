@@ -47,7 +47,7 @@ const AcademicProjects = () => {
             effectwidth='4'
             subtitle="Academic project for the subject 'new programming techniques'"
             github='https://github.com/alejo0o/ProyectoCine-Reactjs'
-            webpage='https://proyecto-cine-reactjs.now.sh/'
+            webpage='https://proyecto-cine-reactjs.vercel.app'
           />
           <CardHover
             imageTitle='Proyecto-Cine GraphQL API'
