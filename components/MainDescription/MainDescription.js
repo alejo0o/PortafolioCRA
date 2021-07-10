@@ -20,9 +20,9 @@ const MainDescription = () => {
           <br />
           <p>
             I&apos;m a Junior developer with knowledge of applied technologies
-            for Back-End development, Front-End development and Devops. Actually
-            I&apos;m studying Systems Engineering and Computing at the
-            Pontifical Catholic University of Ecuador.
+            for Back-End development, Front-End development and Devops. I
+            studied Systems Engineering and Computing at the Pontifical Catholic
+            University of Ecuador.
             <br />
             <br />
             This website show&apos;s evidence of my projects and progress in my

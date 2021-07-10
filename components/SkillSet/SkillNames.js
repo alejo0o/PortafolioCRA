@@ -21,7 +21,6 @@ const importNames = [
   ['/img/skills/redux.svg', 'Redux', 'Redux'],
   ['/img/skills/spring.svg', 'Java Spring', 'Java Spring'],
   ['/img/skills/sql.svg', 'SQL', 'SQL'],
-  ['/img/skills/vuejs.svg', 'VueJS', 'VueJS'],
   ['/img/skills/webpack.svg', 'Webpack & Babel', 'Webpack and Babel'],
   ['/img/skills/woocommerce.svg', 'WooCommerce', 'WooCommerce'],
 ];
