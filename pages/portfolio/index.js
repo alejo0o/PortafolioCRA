@@ -80,6 +80,16 @@ const Portfolio = () => {
             github=''
             webpage='https://noticias-utpl3.webnode.es'
           />
+          <CardHover
+            imageTitle='Colaciones Cruz Verde'
+            description='Webpage developed for Colaciones Cruz Verde business.'
+            imgAlt='Colaciones Cruz Verde'
+            imgURL='https://i.ibb.co/fYQLwvx/colacionescruzverde.png'
+            effectwidth='4'
+            subtitle='Ecommerce developed using Wordpress and Woocommerce for Colaciones Cruz Verde business to sell their products.'
+            github=''
+            webpage='https://www.colacionescruzverde.com'
+          />
         </GridContainer>
         <Experience />
       </Container>
